@@ -1,8 +1,10 @@
 # hongo.app
-本郷祭などのアプリを開発
-
-## CottonTesseract fork の概要
-- 勝手に作ったUI
-	- HTML,CSS,JS
-- 現状は内部動作ナシ
-	- 可哀想な人だ。あなたには何もない…空っぽだ…
+本郷祭などのアプリを開発するプロジェクト
+# 概要
+[これ](https://1drv.ms/u/s!Aon8nRZeqfoukzWwV8x0jwOCffax?e=hWWfsY)でも読んどけこの野郎
+# 構成
+ファイルはまだないよ～ん
+# 使い方
+まだ決まってませーん
+# その他
+Copyright(c) Web application production team 2022 All rights reserved.
