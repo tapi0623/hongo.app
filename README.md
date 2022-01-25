@@ -3,7 +3,12 @@
 # 概要
 [これ](https://1drv.ms/u/s!Aon8nRZeqfoukzWwV8x0jwOCffax?e=hWWfsY)でも読んどけこの野郎
 # 構成
-ファイルはまだないよ～ん
+```
+[Hongo.app]
+        ├── [HSP](HSP製インタフェース)
+        └── [panflet_harib1](デジタルパンフレット)
+```
+
 # 使い方
 まだ決まってませーん
 # その他
