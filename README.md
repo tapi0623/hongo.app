@@ -15,7 +15,7 @@
 # 資料
 [こちら](https://1drv.ms/u/s!Aon8nRZeqfoukzWwV8x0jwOCffax?e=hWWfsY)からもご覧ください
 - 学校の地図をアプリ化
-- コロナ濃厚接触者通知
+- コロナ濃厚接触者通知　←厚労省の接触確認アプリで十分
 - 各種申し込み
 - ライブなど
 - タイムスケジュール
@@ -94,11 +94,12 @@ UIをしっかり作っておく
 - PWAでいきましょ
 - 開発環境はWindows or MacでVisual Studio(無料版)で行く
 - ソースコードの共有
+
 # ライセンス
-このリポジトリ内のファイルは、全て本郷学園　本郷祭実行委員電脳部技術課 Webアプリ開発チームによって製作されました。無断でのファイルの使用、改変、転載はおやめください。
+このリポジトリ内のファイルは全て、 本郷学園 本郷祭実行委員 電脳部 技術課 Webアプリ開発チーム によって製作されました。無断でのファイルの使用、改変、転載はおやめください。
 
 
-Copyright(c)Hongo　junior and senior high school  School Festival Executive Committee Cyber Department Technology Division Web application production team 2022 All rights reserved.
+Copyright(c)Hongo junior and senior high school, School Festival Executive Committee, Cyber Department Technology Division, Web application production team 2022 All rights reserved.
 
 
 (中二病っぽい名前なのは[この人](https://github.com/DailyGeekTech)のせいです)
