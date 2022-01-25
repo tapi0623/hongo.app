@@ -7,4 +7,8 @@
 # 使い方
 まだ決まってませーん
 # その他
-Copyright(c) Web application production team 2022 All rights reserved.
+このリポジトリ内のファイルは、全て本郷学園　本郷祭実行委員電脳部技術課 Webアプリ開発チームによって製作されました。無断でのファイルの使用、改変、転載はおやめください。
+
+
+Copyright(c)Hongo　junior and senior high school  School Festival Executive Committee Cyber Department Technology Division Web application production team 2022 All rights reserved.
+(中二病っぽい名前なのは[この人](https://github.com/DailyGeekTech)のせいです)
