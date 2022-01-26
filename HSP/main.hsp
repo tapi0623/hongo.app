@@ -1,4 +1,5 @@
 ;#include "hsp3utf.as"
+#include "hspmath.as"
 #include "hsp3util.as"
 screen 0,390,844
 id=0
@@ -7,6 +8,10 @@ picload "Hongo_logo_kakou-2.png",1
 *task1
 	cls
 	l=0
+	pos 240,0
+	font "HG行書体",30
+	text 200
+	emes"本郷祭2022"
 	font "游ゴシック",20
 	task="Welcome!"
 	taskb="Welcome!"
@@ -14,14 +19,16 @@ picload "Hongo_logo_kakou-2.png",1
 	;mes "Now Loading..."
  	title task
  	wb=0
-	sy=0
-	gy=0
+	sx=0
+	gx=0
 	repeat 255
 	color wb,wb,255
 	;line 390,gy,0,sy
-	boxf sy,250,sy,260
-	sy+=1
-	gy+=1
+	;boxf sy,200,sy,210
+	boxf sx,250,gx,260
+	sx+=1
+	gx+=1
+	;if fmod(gx,2)=0 wb+=1
 	wb+=1
 	await 2
 	;if wb>255:wb=255
@@ -33,9 +40,6 @@ picload "Hongo_logo_kakou-2.png",1
 	mes "ID:"+id
 	pos 150,0
 	mes "様"
-	pos 240,0
-	font "HG行書体",30
-	mes"本郷祭2022"
 	line 390,40,0,40
 	;color 255,255,255
 	pos 200,60
