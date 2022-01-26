@@ -7,8 +7,8 @@
 # 構成
 ```
 [Hongo.app]
-        ├── [HSP](HSP製インタフェース)
-        └── [panflet_harib1](デジタルパンフレット)
+	├── [HSP]		(HSP製インタフェース)
+	└── [panflet_harib1]	(デジタルパンフレット)
 ```
 
 # 使い方
