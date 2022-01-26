@@ -3,7 +3,7 @@
 # 概要
 本郷祭のアプリとか。最早なんだかよくわからない
 
-なんだか[これ](https://github.com/afes-website/cappuccino-app)の劣化コピーにしかならなそうな雰囲気
+なんだか[これ](https://github.com/afes-website)の劣化コピーにしかならなそうな雰囲気
 # 構成
 ```
 [Hongo.app]
