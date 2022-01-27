@@ -27,7 +27,7 @@ l=0
 	wb+=1
 	if l=0:await 2
 	loop
-	l=1
+	l+=1
 	color 0,0,0
 	pos 0,0
 	mes name
