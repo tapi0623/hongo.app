@@ -18,7 +18,7 @@
 ## 資料
 [こちら](https://1drv.ms/u/s!Aon8nRZeqfoukzWwV8x0jwOCffax?e=hWWfsY)からもご覧ください
 - 学校の地図をアプリ化
-- コロナ濃厚接触者通知←厚労省の接触確認アプリで十分
+- コロナ濃厚接触者通知←[厚労省の接触確認アプリ](https://github.com/cocoa-mhlw/cocoa)で十分
 - 各種申し込み
 - ライブなど
 - タイムスケジュール
@@ -98,6 +98,11 @@ UIをしっかり作っておく
 - PWAでいきましょ
 - 開発環境はWindows or MacでVisual Studio(無料版)で行く
 - ソースコードの共有
+
+## 関連リンク
+- [COCOA](https://github.com/cocoa-mhlw/cocoa)(日本政府・厚労省の接触確認アプリ)
+- [Covid19Rader](https://github.com/Covid-19Radar/Covid19Radar)(↑のベース)	
+- [CAPPUCCINO](https://github.com/afes-website)(麻布の学園祭アプリ)
 
 ## ライセンス
 このリポジトリ内のファイルは全て、 本郷学園 本郷祭実行委員 電脳部 技術課 Webアプリ開発チーム によって製作されました。無断でのファイルの使用、改変、転載はおやめください。
