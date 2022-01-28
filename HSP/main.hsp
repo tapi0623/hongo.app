@@ -1,4 +1,5 @@
-;#include "hsp3utf.as"
+#include "hsp3dish.as"
+#include "hsp3utf.as"
 #include "hspmath.as"
 #include "hsp3util.as"
 screen 0,390,844
@@ -12,7 +13,7 @@ l=0
 	pos 240,0
 	font "HG行書体",30
 	text 200
-	if l=0:emes"本郷祭2022":else:mes "本郷祭2022"
+	if l=0:mes"本郷祭2022":else:mes "本郷祭2022"
 	font "游ゴシック",20
 	pos 0,230
  	title task
@@ -27,7 +28,7 @@ l=0
 	wb+=1
 	if l=0:await 2
 	loop
-	l=1
+	l+=1
 	color 0,0,0
 	pos 0,0
 	mes name
@@ -46,12 +47,13 @@ l=0
  	taskb+=">"
  	mes taskb
 *start
+redraw 0
  color 0,0,0
  pos 5,300
  font "游ゴシック",15
  text 20
- emes "本郷祭2022へようこそ。まずは登録をお願いいたします。"
- emes "リストバンドに記載のIDを入力してください。"
+ mes "本郷祭2022へようこそ。まずは登録をお願いいたします。"
+ mes "リストバンドに記載のIDを入力してください。"
  pos 50,400
  objmode 2
  font "游ゴシック",30
@@ -59,6 +61,7 @@ l=0
  pos 100,460
  objsize 200,100
  button "Go",*task2
+ redraw 1
  stop
 *task2
  	cls
@@ -176,3 +179,40 @@ l=0
  	button "戻る",*task2
  	stop
 *main
+	cls
+	task="マイページ"
+	l=0
+	pos 240,0
+	font "HG行書体",30
+	mes"本郷祭2022"
+	font "游ゴシック",20
+	pos 0,230
+ 	title task
+ 	wb=0
+	sx=0
+	gx=0
+	repeat 255
+	color wb,wb,255
+	boxf sx,250,gx,260
+	sx+=1
+	gx+=1
+	wb+=1
+	loop
+	color 0,0,0
+	pos 0,0
+	mes name
+	pos 0,20
+	mes "ID:"+id
+	pos 150,0
+	mes "様"
+	line 390,40,0,40
+	pos 200,60
+ 	picload "Hongo_logo_kakou-4.png",1
+ 	pos 0,100
+ 	font "Yu gothic UI",80
+ 	mes task
+ 	pos 0,230
+ 	font "游ゴシック",20
+ 	taskb+=task
+ 	taskb+=">"
+ 	mes ""
