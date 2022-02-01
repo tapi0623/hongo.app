@@ -1,0 +1,55 @@
+/*線の太さを統一*/
+hr {
+    height:3px;
+    width:auto;
+    background-color:black;
+    border:none;
+}
+/*ログインページ用のCSS。
+「submittd」で送信ボタンを右寄せ、
+「submitbutton」は送信ボタンのサイズなど、
+「loginform」で入力ボックスのサイズを制御*/
+.submittd {
+    text-align:right;
+}
+.submitbutton {
+    height:40px;
+    width:90px;
+}
+.loginform {
+    height:30px;
+    width:150px;
+}
+/*ロゴのサイズ指定(ロゴは正方形にトリミングする)*/
+.loginlogo {
+    height:90px;
+    width:90px;
+}
+/*フォント関係
+「titlefont」はタイトル用の太字、「infofont」は本文用*/
+.titlefont {
+    font-size:60px;
+    font-weight:600;
+}
+.infofont {
+    font-size:20px;
+    font-weight:500;
+}
+.komidashifont {
+    font-size:40px;
+    font-weight:600;
+}
+/*トップページ用CSS。
+「hometable」でトップページのフレーム用のtableタグを制御、
+「linkbutton」で各コンテンツにジャンプする用のボタンを制御
+*/
+.homeable {
+    text-align:center;
+}
+.linkbutton {
+    height: 60px;
+    width:100px;
+    border-color:red;
+    border-width:1px;
+    background-color:orange;
+}
