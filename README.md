@@ -3,6 +3,9 @@
 ## 概要
 本郷祭のアプリとか。最早なんだかよくわからない
 
+コードネーム:Hongodori
+![image](https://user-images.githubusercontent.com/91722200/152088754-43d3e062-95e7-4c93-b10e-f258494f3669.png)
+
 なんだか[これ](https://github.com/afes-website)の劣化コピーにしかならなそうな雰囲気
 ## 構成
 []はディレクトリ
