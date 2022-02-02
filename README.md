@@ -3,14 +3,19 @@
 ## 概要
 本郷祭のアプリとか。最早なんだかよくわからない
 
+コードネーム:Hongodori
+![image](https://user-images.githubusercontent.com/91722200/152088754-43d3e062-95e7-4c93-b10e-f258494f3669.png)
+
 なんだか[これ](https://github.com/afes-website)の劣化コピーにしかならなそうな雰囲気
 ## 構成
+[]はディレクトリ
 ```
 [Hongo.app]
-	├── 
+	├── [現在のシステム]	(現状システムディレクトリ)
 	├── [login]		(試作ログインフォーム)
-	├── [panflet_harib1]	(デジタルパンフレット)
-	└── [20220128.docx]  (仕様書)
+	├── [panflet_harib1]	(試作デジタルパンフレット)
+	├── readme.md	(このファイル)
+	└── 20220128.docx	(仕様書)
 ```
 
 ## 使い方
