@@ -68,6 +68,10 @@ We'll appriciate your contribution!
 ### UI
 学年間で引継ぎが大変にならないよう、維持管理やこのシステムの利用が簡単になるようにできる限り作ってほしいです
 
+イメージ
+![image](https://user-images.githubusercontent.com/91722200/152269468-4c56ce50-2c59-465c-8cb7-336164baafce.png)
+
+
 ### 言語
 - HTML,CSS,JS
 - PHP
@@ -98,6 +102,3 @@ Copyright(c)Hongo junior and senior high school, School Festival Executive Commi
 
 
 (中二病っぽい名前なのは[この人](https://github.com/DailyGeekTech)のせいです)
-
-![image](https://user-images.githubusercontent.com/91722200/152269390-009e4f8c-da73-4596-9b13-0c329622766b.png)
-
