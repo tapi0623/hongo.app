@@ -81,7 +81,7 @@ We'll appriciate your contribution!
 
 ### 段階
 <!--[image](https://user-images.githubusercontent.com/54175159/152268019-6c55df2a-7cd5-4aee-a98a-84208a0e782e.png)-->
-| 月 |  | 作業目標 |
+| 月 | 時期 | 作業目標 |
 | ---- | ---- | ---- |
 | 2月 | 中旬 | システムの根幹部分を完成させる |
 |  | 下旬 | 試験的なUIを完成(シンプルなものでOK) |
