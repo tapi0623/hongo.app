@@ -69,7 +69,7 @@ We'll appriciate your contribution!
 学年間で引継ぎが大変にならないよう、維持管理やこのシステムの利用が簡単になるようにできる限り作ってほしいです
 
 イメージ
-![image](https://user-images.githubusercontent.com/91722200/152269468-4c56ce50-2c59-465c-8cb7-336164baafce.png)
+![UI例_iphonesered_portrait](https://user-images.githubusercontent.com/54175159/152283815-e62b6d8b-7173-4a09-8f54-ed2410b08850.png)
 
 
 ### 言語
