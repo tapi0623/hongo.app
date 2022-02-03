@@ -1,11 +1,10 @@
 # hongo.app
 本郷祭などのアプリを開発するプロジェクト
-
 コードネーム:Hongodori
 ![image](https://user-images.githubusercontent.com/91722200/152088754-43d3e062-95e7-4c93-b10e-f258494f3669.png)
 
 なんだか[これ](https://github.com/afes-website)の劣化コピーにしかならなそうな雰囲気
-# 構成
+## 構成
 []はディレクトリ
 ```
 [Hongo.app]
@@ -15,18 +14,18 @@
 	├── readme.md	(このファイル)
 	└── 20220128.docx	(仕様書)
 ```
-# 資料
+## 資料
 [こちら](https://1drv.ms/u/s!Aon8nRZeqfoukzWwV8x0jwOCffax?e=hWWfsY)からもご覧ください
 議事録等は上のリンクに格納します
 
 
-### For Non japanese developers
+## For Non japanese developers
 Thank you for reading this readme!
 If you have some difficulties reading Japanese, please use translation service avalable in your countries or region.
 If you want to join our team, please let me know as soon as possible!
 We'll appriciate your contribution!
 
-# 大枠
+## 大枠
 大まかな機能として
 - イベントへの入退室管理
 - 各企画(教室)の込み具合検知
@@ -41,12 +40,12 @@ We'll appriciate your contribution!
 
 ### 入退室管理について
 入退室管理について、大まかな流れを書きますと、
-1.入場したときリストバンドか紙を配り、そこに書いてあるQRコードでログインしてもらう(つまりアカウントはこちらから割り振る形式です)
-2.ログインを確認したら、データベースに何時何分に入場と記録
-3.各企画入場時に係員がお客さんのQRコードを読み取り(Chromebookという産業廃棄物で)、データベースに何時何分何の企画に入場と記録
+1. 入場したときリストバンドか紙を配り、そこに書いてあるQRコードでログインしてもらう(つまりアカウントはこちらから割り振る形式です)
+1. ログインを確認したら、データベースに何時何分に入場と記録
+1. 各企画入場時に係員がお客さんのQRコードを読み取り(Chromebookという産業廃棄物で)、データベースに何時何分何の企画に入場と記録
 (もしかしたらPaypayみたいにお客さんがQRコードを読み取ってデータベースに登録って形になるかも)
-4.そのお客さんが次の企画に入り、それがデータベースに保存されると、前にいた企画から退出したという記録が残る
-5.お帰りの場合は門で退場用のQRを読ませ、その人のデータの記録を終了する
+1. そのお客さんが次の企画に入り、それがデータベースに保存されると、前にいた企画から退出したという記録が残る
+1. お帰りの場合は門で退場用のQRを読ませ、その人のデータの記録を終了する
 このようなシステムで人数情報を集めるつもりです
 ここで集めたデータを利用して、混雑状況を割り出します
 
@@ -70,7 +69,10 @@ We'll appriciate your contribution!
 学年間で引継ぎが大変にならないよう、維持管理やこのシステムの利用が簡単になるようにできる限り作ってほしいです
 
 ### 言語
-HTML JS CSS PHP (SQL)
+- HTML,CSS,JS
+- PHP
+- SQL
+
 後未定...
 
 ### 段階
