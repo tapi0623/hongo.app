@@ -18,7 +18,14 @@
 [こちら](https://1drv.ms/u/s!Aon8nRZeqfoukzWwV8x0jwOCffax?e=hWWfsY)からもご覧ください
 議事録等は上のリンクに格納します
 
-#大枠
+
+### For Non japanese developers
+Thank you for reading this readme!
+If you have some difficulties reading Japanese, please use translation service avalable in your countries or region.
+If you want to join our team, please let me know as soon as possible!
+We'll appriciate your contribution!
+
+# 大枠
 大まかな機能として
 - イベントへの入退室管理
 - 各企画(教室)の込み具合検知
@@ -97,12 +104,6 @@ HTML JS CSS PHP (SQL)
 麻布のカプチーノの人たちのように強そうなプログラマーたちでも3人で2年間かかったそうなので、何とか人員を募集しています。もしよければぜひ加入お願いします
 連絡先は　(hongodoridevs@gmail.com)です
 
-
-### For Non japanese developers
-Thank you for reading this readme!
-If you have some difficulties reading Japanese, please use translation service avalable in your countries or region.
-If you want to join our team, please let me know as soon as possible!
-We'll appriciate your contribution!
 
 ## 関連リンク
 - [COCOA](https://github.com/cocoa-mhlw/cocoa)(日本政府・厚労省の接触確認アプリ)
