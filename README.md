@@ -98,3 +98,6 @@ Copyright(c)Hongo junior and senior high school, School Festival Executive Commi
 
 
 (中二病っぽい名前なのは[この人](https://github.com/DailyGeekTech)のせいです)
+
+![image](https://user-images.githubusercontent.com/91722200/152269390-009e4f8c-da73-4596-9b13-0c329622766b.png)
+
