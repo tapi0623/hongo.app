@@ -125,7 +125,8 @@ We'll appriciate your contribution!
 - [CAPPUCCINO](https://github.com/afes-website)(麻布の学園祭アプリ)
 
 ## ライセンス
-このリポジトリ内のファイルは全て、 本郷学園 本郷祭実行委員 電脳部 技術課 Webアプリ開発チーム によって製作されました。無断でのファイルの使用、改変、転載はおやめください。
+<!--このリポジトリ内のファイルは全て、 本郷学園 本郷祭実行委員 電脳部 技術課 Webアプリ開発チーム によって製作されました。無断でのファイルの使用、改変、転載はおやめください。-->
+本アプリの内容はMITライセンスで提供しています。
 
 Copyright(c)Hongo junior and senior high school, School Festival Executive Committee, Cyber Department Technology Division, Web application production team 2022 All rights reserved.
 
